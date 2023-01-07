@@ -48,7 +48,10 @@ The project is broken into 2 distinct sections.
 
 Occasionally, Github does not render Jupyter Notebooks correctly.  You can view a static version of the re-created Keras Notebook on nbviewer by clicking this icon.
 
-[![nbviewer]( )
+[![nbviewer](https://user-images.githubusercontent.com/2791223/29387450-e5654c72-8294-11e7-95e4-090419520edb.png)](https://nbviewer.org/github/RYANCOX00/mach_stats_coursework/blob/main/keras_time_anomaly.ipynb)
+
+
+
 
 <br>
 
