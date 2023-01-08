@@ -21,7 +21,7 @@ The project is broken into 2 distinct sections.
 
 <br>
 
-1. The first section contains a submission of regular exerises which were assigned throughout the semester.  The 4 workbooks in the weekly assignment folder contain the following notebooks.
+1. The first section contains a submission of regular exerises which were assigned throughout the semester.  The folder entitled weekly_assignments contains the following notebooks.
 
     - statistics.ipynb
         - This notebook contains 3 questions. The first two relates to the lady tasting tea test.  Questions 1 is a manual calculation. Questions 2 uses scipy.stats' fisher_exact function to simulate the lady tasting tea problem. Questions 3 discusses how the scipy.stats.ttest_ind [documentation](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_ind.html) code works.
@@ -40,7 +40,7 @@ The project is broken into 2 distinct sections.
     
 
 
-2. The second section of the project will provide a recreation of the Keras time series anomaly detection demonstration. This original Kera demonstration is available [here](https://keras.io/examples/timeseries/timeseries_anomaly_detection/).  The notebook created in this repository provides detailed explainations on all the concepts with enhancements to the original code. 
+2. The second section of the project will provide a recreation of the Keras time series anomaly detection demonstration. This original Keras demonstration is available [here](https://keras.io/examples/timeseries/timeseries_anomaly_detection/).  The notebook created in this repository provides detailed explainations on all the concepts with enhancements to the original code. 
 
  
 
@@ -65,13 +65,13 @@ Occasionally, Github does not render Jupyter Notebooks correctly.  You can view 
 
 1. It is recommended that Windows users download Cmder to interact with the command line. Cmder can be downloaded [here](https://cmder.net/).   Mac and Linux user may continue to use the built in command line. 
 
-2. To run this code a user will require Python 3 (available [here](https://www.python.org/downloads/) and the packages listed in the requirements.txt file.   It is however recommended that a user downloads Anaconda as these particular packages including Python 3 are already pre-installed.  You can download Anaconda [here](https://www.anaconda.com/products/individual).  
+2. To run this code a user will require Python 3 which is available [here](https://www.python.org/downloads/) and the packages listed in the requirements.txt file.   Alternatively, a user can download Anaconda as these particular packages including Python 3 are already pre-installed.  You can download Anaconda [here](https://www.anaconda.com/products/individual).  
 
 3. TensorFlow 2 is not provided in Anaconda.  Users will require TensorFlow 2 which is available [here](https://www.tensorflow.org/install).
 
 4. Users will be required to download Git in order to pull contents from the repository into a local directory. Git is available [here](https://git-scm.com/downloads). 
 
-5.  It is recommended to user Google Chrome to interact with Jupyter. 
+5.  It is recommended to use Google Chrome to interact with Jupyter. 
 
 <br>
 
@@ -104,7 +104,7 @@ http://localhost:8888/lab/workspaces/auto-d
 
 <br>
 
-4. To run the aml_accounts.ipynb notebook: 
+4. To run any of the notebooks: 
 - Open the file in Jupyter.
 - Go to *Kernel*. 
 - Click *Restart Kernel and Run All Cells*. 
